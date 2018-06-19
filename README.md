@@ -10,7 +10,7 @@ Configuration Setup:
 4.) Under the Tools option in android studio choose android emulator.
 Note:- If you are using windows the variable for installing Sdk\platform-tools needs to be set.
 5.) Play the app from the emulator under tools option in android studio.
-6.) in Command prompt inside the MovieBox folder run the command react-native run-android.
+6.) in Command prompt inside the MovieBox folder run the command npm run start.
 7.) App will start running in the emulator.
 
 Functionalities that can be seen in the app.
