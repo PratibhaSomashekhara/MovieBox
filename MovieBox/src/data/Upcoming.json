@@ -1,0 +1,418 @@
+{
+  "results":[
+    {
+      "vote_count":662,
+      "id":351286,
+      "video":false,
+      "vote_average":6.7,
+      "title":"Jurassic World: Fallen Kingdom",
+      "popularity":251.012321,
+      "poster_path":"/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+      "original_language":"en",
+      "original_title":"Jurassic World: Fallen Kingdom",
+      "genre_ids":[
+        28,
+        12,
+        878
+      ],
+      "backdrop_path":"/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+      "adult":false,
+      "overview":"A volcanic eruption threatens the remaining dinosaurs on the island of Isla Nublar, where the creatures have freely roamed for several years after the demise of an animal theme park known as Jurassic World. Claire Dearing, the former park manager, has now founded the Dinosaur Protection Group, an organization dedicated to protecting the dinosaurs. To help with her cause, Claire has recruited Owen Grady, a former dinosaur trainer who worked at the park, to prevent the extinction of the dinosaurs once again.",
+      "release_date":"2018-06-06"
+    },
+    {
+      "vote_count":2272,
+      "id":383498,
+      "video":false,
+      "vote_average":7.7,
+      "title":"Deadpool 2",
+      "popularity":184.218504,
+      "poster_path":"/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "original_language":"en",
+      "original_title":"Deadpool 2",
+      "genre_ids":[
+        28,
+        35,
+        878
+      ],
+      "backdrop_path":"/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "adult":false,
+      "overview":"Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+      "release_date":"2018-05-15"
+    },
+    {
+      "vote_count":4857,
+      "id":299536,
+      "video":false,
+      "vote_average":8.4,
+      "title":"Avengers: Infinity War",
+      "popularity":144.876929,
+      "poster_path":"/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "original_language":"en",
+      "original_title":"Avengers: Infinity War",
+      "genre_ids":[
+        12,
+        878,
+        14,
+        28
+      ],
+      "backdrop_path":"/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+      "adult":false,
+      "overview":"As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "release_date":"2018-04-25"
+    },
+    {
+      "vote_count":917,
+      "id":348350,
+      "video":false,
+      "vote_average":6.8,
+      "title":"Solo: A Star Wars Story",
+      "popularity":105.95329,
+      "poster_path":"/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "original_language":"en",
+      "original_title":"Solo: A Star Wars Story",
+      "genre_ids":[
+        28,
+        12,
+        878
+      ],
+      "backdrop_path":"/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg",
+      "adult":false,
+      "overview":"Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+      "release_date":"2018-05-23"
+    },
+    {
+      "vote_count":174,
+      "id":402900,
+      "video":false,
+      "vote_average":6.8,
+      "title":"Ocean's 8",
+      "popularity":85.84361,
+      "poster_path":"/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "original_language":"en",
+      "original_title":"Ocean's 8",
+      "genre_ids":[
+        80,
+        35,
+        28,
+        53
+      ],
+      "backdrop_path":"/zBIfBeStaDdDdhBrSx8InhgFUVa.jpg",
+      "adult":false,
+      "overview":"Debbie Ocean, a criminal mastermind, gathers a crew of seven other female thieves to pull off the heist of the century at New York's annual Met Gala.",
+      "release_date":"2018-06-07"
+    },
+    {
+      "vote_count":75,
+      "id":260513,
+      "video":false,
+      "vote_average":7.4,
+      "title":"Incredibles 2",
+      "popularity":74.680949,
+      "poster_path":"/hL9Uz2vq93vi20oxZEBBaSs4w8U.jpg",
+      "original_language":"en",
+      "original_title":"Incredibles 2",
+      "genre_ids":[
+        28,
+        12,
+        16,
+        10751
+      ],
+      "backdrop_path":"/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+      "adult":false,
+      "overview":"Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+      "release_date":"2018-06-14"
+    },
+    {
+      "vote_count":697,
+      "id":449176,
+      "video":false,
+      "vote_average":8.3,
+      "title":"Love, Simon",
+      "popularity":66.350644,
+      "poster_path":"/5YUYg5q7QfC4IoNwNUtiwdiYKPr.jpg",
+      "original_language":"en",
+      "original_title":"Love, Simon",
+      "genre_ids":[
+        35,
+        18,
+        10749
+      ],
+      "backdrop_path":"/rqMEeajyzSF4PpJtdCB816Iz8Vr.jpg",
+      "adult":false,
+      "overview":"Everyone deserves a great love story. But for seventeen-year old Simon Spier it's a little more complicated: he's yet to tell his family or friends he's gay and he doesn't know the identity of the anonymous classmate he's fallen for online.",
+      "release_date":"2018-03-16"
+    },
+    {
+      "vote_count":446,
+      "id":395990,
+      "video":false,
+      "vote_average":5.5,
+      "title":"Death Wish",
+      "popularity":45.630624,
+      "poster_path":"/7FG13lLQcV9DC2Bhn0hjxc6AFXV.jpg",
+      "original_language":"en",
+      "original_title":"Death Wish",
+      "genre_ids":[
+        28,
+        80,
+        18,
+        53
+      ],
+      "backdrop_path":"/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+      "adult":false,
+      "overview":"A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+      "release_date":"2018-03-02"
+    },
+    {
+      "vote_count":98,
+      "id":493922,
+      "video":false,
+      "vote_average":6.8,
+      "title":"Hereditary",
+      "popularity":44.655284,
+      "poster_path":"/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "original_language":"en",
+      "original_title":"Hereditary",
+      "genre_ids":[
+        27,
+        18,
+        9648,
+        53
+      ],
+      "backdrop_path":"/yVWiOMpzf7gullGvug83r7gMdha.jpg",
+      "adult":false,
+      "overview":"After their reclusive grandmother passes away, the Graham family tries to escape the dark fate they've inherited.",
+      "release_date":"2018-06-04"
+    },
+    {
+      "vote_count":929,
+      "id":445571,
+      "video":false,
+      "vote_average":7,
+      "title":"Game Night",
+      "popularity":44.449648,
+      "poster_path":"/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "original_language":"en",
+      "original_title":"Game Night",
+      "genre_ids":[
+        9648,
+        35,
+        80,
+        53
+      ],
+      "backdrop_path":"/nFQYnpri9kqJ91sG1IfyhukhdrD.jpg",
+      "adult":false,
+      "overview":"Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+      "release_date":"2018-02-22"
+    },
+    {
+      "vote_count":1453,
+      "id":401981,
+      "video":false,
+      "vote_average":6.4,
+      "title":"Red Sparrow",
+      "popularity":42.542315,
+      "poster_path":"/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg",
+      "original_language":"en",
+      "original_title":"Red Sparrow",
+      "genre_ids":[
+        9648,
+        53
+      ],
+      "backdrop_path":"/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg",
+      "adult":false,
+      "overview":"Prima ballerina, Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Dominika emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, she meets a CIA agent who tries to convince her that he is the only person she can trust.",
+      "release_date":"2018-03-01"
+    },
+    {
+      "vote_count":309,
+      "id":419478,
+      "video":false,
+      "vote_average":7.8,
+      "title":"Midnight Sun",
+      "popularity":38.251464,
+      "poster_path":"/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg",
+      "original_language":"en",
+      "original_title":"Midnight Sun",
+      "genre_ids":[
+        10749,
+        18
+      ],
+      "backdrop_path":"/o1i7daIYTaD61hbcXFYS4o8Zflf.jpg",
+      "adult":false,
+      "overview":"Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.",
+      "release_date":"2018-03-22"
+    },
+    {
+      "vote_count":683,
+      "id":427641,
+      "video":false,
+      "vote_average":5.9,
+      "title":"Rampage",
+      "popularity":37.033832,
+      "poster_path":"/30oXQKwibh0uANGMs0Sytw3uN22.jpg",
+      "original_language":"en",
+      "original_title":"Rampage",
+      "genre_ids":[
+        28,
+        12,
+        878
+      ],
+      "backdrop_path":"/wrqUiMXttHE4UBFMhLHlN601MZh.jpg",
+      "adult":false,
+      "overview":"Primatologist Davis Okoye shares an unshakable bond with George, the extraordinarily intelligent, silverback gorilla who has been in his care since birth.  But a rogue genetic experiment gone awry mutates this gentle ape into a raging creature of enormous size.  To make matters worse, it’s soon discovered there are other similarly altered animals.  As these newly created alpha predators tear across North America, destroying everything in their path, Okoye teams with a discredited genetic engineer to secure an antidote, fighting his way through an ever-changing battlefield, not only to halt a global catastrophe but to save the fearsome creature that was once his friend.",
+      "release_date":"2018-04-12"
+    },
+    {
+      "vote_count":94,
+      "id":370567,
+      "video":false,
+      "vote_average":5.1,
+      "title":"Sherlock Gnomes",
+      "popularity":35.25788,
+      "poster_path":"/xHdf2wRgCSp9MrZRryikiZIH6jB.jpg",
+      "original_language":"en",
+      "original_title":"Sherlock Gnomes",
+      "genre_ids":[
+        10749,
+        16,
+        35,
+        10751,
+        14,
+        9648,
+        12
+      ],
+      "backdrop_path":"/dmbD8FDr6DDdinGEs14HC2FmY2w.jpg",
+      "adult":false,
+      "overview":"Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.",
+      "release_date":"2018-03-15"
+    },
+    {
+      "vote_count":1342,
+      "id":447332,
+      "video":false,
+      "vote_average":7.3,
+      "title":"A Quiet Place",
+      "popularity":34.129939,
+      "poster_path":"/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "original_language":"en",
+      "original_title":"A Quiet Place",
+      "genre_ids":[
+        18,
+        27,
+        53,
+        878
+      ],
+      "backdrop_path":"/roYyPiQDQKmIKUEhO912693tSja.jpg",
+      "adult":false,
+      "overview":"A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "release_date":"2018-04-05"
+    },
+    {
+      "vote_count":351,
+      "id":407451,
+      "video":false,
+      "vote_average":5.1,
+      "title":"A Wrinkle in Time",
+      "popularity":32.245446,
+      "poster_path":"/yAcb58vipewa1BfNit2RjE6boXA.jpg",
+      "original_language":"en",
+      "original_title":"A Wrinkle in Time",
+      "genre_ids":[
+        12,
+        878,
+        10751,
+        14
+      ],
+      "backdrop_path":"/zqUaMojohr96itJYCE3W1NauTn7.jpg",
+      "adult":false,
+      "overview":"After the disappearance of her scientist father, three peculiar beings send Meg, her brother, and her friend to space in order to find him.",
+      "release_date":"2018-03-08"
+    },
+    {
+      "vote_count":13,
+      "id":490214,
+      "video":false,
+      "vote_average":4.4,
+      "title":"Iceman 2",
+      "popularity":32.095854,
+      "poster_path":"/enZENHd2gwVAw4sJKJxtJl1vJ09.jpg",
+      "original_language":"cn",
+      "original_title":"时空行者",
+      "genre_ids":[
+        28,
+        35,
+        36
+      ],
+      "backdrop_path":"/6SOLRw0mLepY83uonpbhWIe8mWx.jpg",
+      "adult":false,
+      "overview":"The imperial guard and his three traitorous childhood friends ordered to hunt him down get accidentally buried and kept frozen in time. 400 years later pass and they are defrosted continuing the battle they left behind",
+      "release_date":"2018-05-18"
+    },
+    {
+      "vote_count":10,
+      "id":455980,
+      "video":false,
+      "vote_average":8,
+      "title":"Tag",
+      "popularity":30.697021,
+      "poster_path":"/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+      "original_language":"en",
+      "original_title":"Tag",
+      "genre_ids":[
+        35
+      ],
+      "backdrop_path":"/vJ0GLqItLCzv1kfp6qHs4SDiavs.jpg",
+      "adult":false,
+      "overview":"For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.",
+      "release_date":"2018-06-14"
+    },
+    {
+      "vote_count":210,
+      "id":460019,
+      "video":false,
+      "vote_average":5.9,
+      "title":"Truth or Dare",
+      "popularity":29.010187,
+      "poster_path":"/zbvziwnZa91AJD78Si0hUb5JP5X.jpg",
+      "original_language":"en",
+      "original_title":"Truth or Dare",
+      "genre_ids":[
+        53,
+        27
+      ],
+      "backdrop_path":"/eQ5xu2pQ5Kergubto5PbbUzey28.jpg",
+      "adult":false,
+      "overview":"A harmless game of \"Truth or Dare\" among friends turns deadly when someone—or something—begins to punish those who tell a lie—or refuse the dare.",
+      "release_date":"2018-04-12"
+    },
+    {
+      "vote_count":48,
+      "id":385332,
+      "video":false,
+      "vote_average":5.8,
+      "title":"Terminal",
+      "popularity":27.589057,
+      "poster_path":"/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+      "original_language":"en",
+      "original_title":"Terminal",
+      "genre_ids":[
+        53,
+        18,
+        80
+      ],
+      "backdrop_path":"/bwvxvrHH3nTbcwpEcJhA72kkI94.jpg",
+      "adult":false,
+      "overview":"In the dark heart of a sprawling, anonymous city, two assassins carry out a sinister mission, a teacher battles a fatal illness, and an enigmatic janitor and a curious waitress lead dangerous double lives.  Murderous consequences unravel in the dead of night, as their lives intertwine at the hands of a mysterious criminal mastermind who is hell-bent on revenge.",
+      "release_date":"2018-05-11"
+    }
+  ],
+  "page":1,
+  "total_results":1063,
+  "dates":{
+    "maximum":"2018-06-22",
+    "minimum":"2018-05-03"
+  },
+  "total_pages":54
+}
